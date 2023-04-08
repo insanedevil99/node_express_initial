@@ -1,4 +1,4 @@
-# medium-express-server
+# proyecto inicial de node
 
 ejecutar npm i para instalar dependencias
 
